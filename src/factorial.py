@@ -13,3 +13,5 @@ class Fatorial:
         print("Factorial of 5:", result)
         result = factorial(50)
         print("Factorial of 50:", result)
+        result = factorial(250)
+        print("Factorial of 250:", result)

@@ -42,4 +42,8 @@ if __name__ == "__main__":
     print(f"Fibonacci de {n} (recursivo): {fibonacci_recursivo(n)}")
     print(f"Fibonacci de {n} (dinâmico): {fibonacci_dinamico(n)}")
     print(f"Fibonacci de {n} (Mauro): {retornaArrayFibonacci(15)}")
+    print(f"Fibonacci de {n} (Mauro): {retornaArrayFibonacci(5)}")
+    print(f"Fibonacci de {n} (Mauro): {retornaArrayFibonacci(2)}")
+
+    
     
